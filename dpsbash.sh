@@ -119,3 +119,6 @@ case "$1" in
         echo "Cannot recognize '$1', try --help"
         ;;
 esac
+##!/bin/bash
+#git clone https://github.com/PrestaShop/php-ps-info.git
+#mv php-ps-info ./psdata/php-ps-info 
